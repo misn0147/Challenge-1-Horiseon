@@ -8,7 +8,7 @@ A website for a company that offers services for online businesses.
 * CSS
 
 ## Website
-https://misn0147.github.io/urban-octo-telegram/
+https://misn0147.github.io/Challenge-1-Horiseon/
 
 ## Contribution
 Made with ❤️ by Horiseon / Melissa
